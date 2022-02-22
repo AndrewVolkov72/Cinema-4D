@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/Cinema-4D/static/css/main.75185335.chunk.css",
-    "main.js": "/Cinema-4D/static/js/main.60ce196d.chunk.js",
-    "main.js.map": "/Cinema-4D/static/js/main.60ce196d.chunk.js.map",
+    "main.js": "/Cinema-4D/static/js/main.9719223e.chunk.js",
+    "main.js.map": "/Cinema-4D/static/js/main.9719223e.chunk.js.map",
     "runtime-main.js": "/Cinema-4D/static/js/runtime-main.7be9357e.js",
     "runtime-main.js.map": "/Cinema-4D/static/js/runtime-main.7be9357e.js.map",
     "static/js/2.c77eef70.chunk.js": "/Cinema-4D/static/js/2.c77eef70.chunk.js",
@@ -16,6 +16,6 @@
     "static/js/runtime-main.7be9357e.js",
     "static/js/2.c77eef70.chunk.js",
     "static/css/main.75185335.chunk.css",
-    "static/js/main.60ce196d.chunk.js"
+    "static/js/main.9719223e.chunk.js"
   ]
 }
