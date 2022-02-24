@@ -1,21 +1,21 @@
 {
   "files": {
     "main.css": "/Cinema-4D/static/css/main.75185335.chunk.css",
-    "main.js": "/Cinema-4D/static/js/main.9719223e.chunk.js",
-    "main.js.map": "/Cinema-4D/static/js/main.9719223e.chunk.js.map",
+    "main.js": "/Cinema-4D/static/js/main.bba3a81e.chunk.js",
+    "main.js.map": "/Cinema-4D/static/js/main.bba3a81e.chunk.js.map",
     "runtime-main.js": "/Cinema-4D/static/js/runtime-main.7be9357e.js",
     "runtime-main.js.map": "/Cinema-4D/static/js/runtime-main.7be9357e.js.map",
-    "static/js/2.c77eef70.chunk.js": "/Cinema-4D/static/js/2.c77eef70.chunk.js",
-    "static/js/2.c77eef70.chunk.js.map": "/Cinema-4D/static/js/2.c77eef70.chunk.js.map",
+    "static/js/2.22192616.chunk.js": "/Cinema-4D/static/js/2.22192616.chunk.js",
+    "static/js/2.22192616.chunk.js.map": "/Cinema-4D/static/js/2.22192616.chunk.js.map",
     "index.html": "/Cinema-4D/index.html",
     "static/css/main.75185335.chunk.css.map": "/Cinema-4D/static/css/main.75185335.chunk.css.map",
-    "static/js/2.c77eef70.chunk.js.LICENSE.txt": "/Cinema-4D/static/js/2.c77eef70.chunk.js.LICENSE.txt",
+    "static/js/2.22192616.chunk.js.LICENSE.txt": "/Cinema-4D/static/js/2.22192616.chunk.js.LICENSE.txt",
     "static/media/index.css": "/Cinema-4D/static/media/check.52e753f3.svg"
   },
   "entrypoints": [
     "static/js/runtime-main.7be9357e.js",
-    "static/js/2.c77eef70.chunk.js",
+    "static/js/2.22192616.chunk.js",
     "static/css/main.75185335.chunk.css",
-    "static/js/main.9719223e.chunk.js"
+    "static/js/main.bba3a81e.chunk.js"
   ]
 }
